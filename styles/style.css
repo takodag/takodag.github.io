@@ -1,17 +1,16 @@
 html {
 	font-size: 12px;
-	font-family: 'Roboto', sans-serif;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Lato', sans-serif;
 	background-color: #545353;
 }
 
 body {
-	width: 600px;
 	margin: 0 auto;
-	background-color: black;
+	background-color: #ffeead;
 	padding: 0 20px 20px 20px;
-	color: white;
-	border: 5px solid red;
+	color: #8e0009;
+	border: 5px solid #015604;
 }
 
 h1 {
@@ -19,8 +18,8 @@ h1 {
 	text-align: center;
 	margin: 0;
 	padding: 20px 0;
-	color: #1ACB2C;
-	text-shadow: 3px 3px 1px purple;
+	color: #874500;
+	text-shadow: 3px 3px 1px black;
 }
 
 p, li {
